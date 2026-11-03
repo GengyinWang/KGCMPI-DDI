@@ -5,8 +5,8 @@ Code for drug-drug interaction prediction using knowledge graph subgraph context
 ## Setup Environment
 
 ```bash
-conda create -n kgsc-map-ddi python=3.10
-conda activate kgsc-map-ddi
+conda create -n kgcmpi-ddi python=3.10
+conda activate kgcmpi-ddi
 ```
 
 Install compatible versions of [PyTorch](https://pytorch.org/get-started/locally/) and [DGL](https://www.dgl.ai/pages/start.html) for your system, then install the remaining dependencies:
